@@ -1,0 +1,32 @@
+.city-search {
+  width: 300px;
+}
+.search-panel {
+  display: flex;
+  gap: 10px;
+}
+.city-name {
+  font-size: 24px;
+  font-weight: 700;
+}
+.planet-earth {
+  font-size: 24px;
+}
+.degrees .btn-link {
+  text-decoration: none;
+  padding: 0;
+}
+.degrees {
+  font-weight: 500;
+  font-size: 20px;
+  display: flex;
+}
+.button-degrees {
+  display: flex;
+  align-items: center;
+  padding-left: 15px;
+  gap: 10px;
+}
+.weather {
+  text-transform: capitalize;
+}
